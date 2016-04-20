@@ -89,6 +89,6 @@ See FirebaseThreewayOriginal
 
 ####Explain and demonstrate the difference between the simple chat system in your own WebSocket + Node.js backend vs. Firebase.
 #####Own chat: [See websocket](https://github.com/tjaydk/meanperiod5/tree/master/FirebaseThreeWayOriginal)
-#####Chat via Firebase: [See FirebaseThreewayOriginal](https://github.com/tjaydk/meanperiod5/tree/master/WebSocket)
+#####Chat via Firebase: [See FirebaseThreewayOriginal](https://github.com/tjaydk/meanperiod5/tree/master/Websocket)
 As you can see we have the whole backend via Express setup with our own chat system - and via socket.io we create the socket connection for communication. We can then store the data in a MongoDB for persistence. 
 The threewaydatabinding chat is only the angular frontend and all backend and persistence is done via Firebase.
