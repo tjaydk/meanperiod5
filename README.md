@@ -85,7 +85,8 @@ It is very easy to setup and get a fast application to work, it has OAuth authen
 
 ####Explain and demonstrate “three-way data binding” using Firebase and Angular
 Angular builds on a two way data binding where you can change data from the model and the view and using the {{}} expression you can have synchronised data between the two. Firebase can work in collaboration with Angular using the AngularFirebase module which offers a three way data binding, now you can change and synchronise the data between all three parts.
-See FirebaseThreewayOriginal
+
+[See FirebaseThreewayOriginal](https://github.com/tjaydk/meanperiod5/tree/master/Websocket)
 
 ####Explain and demonstrate the difference between the simple chat system in your own WebSocket + Node.js backend vs. Firebase.
 #####Own chat: [See websocket](https://github.com/tjaydk/meanperiod5/tree/master/FirebaseThreeWayOriginal)
