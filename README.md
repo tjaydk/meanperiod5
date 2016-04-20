@@ -88,7 +88,7 @@ Angular builds on a two way data binding where you can change data from the mode
 See FirebaseThreewayOriginal
 
 ####Explain and demonstrate the difference between the simple chat system in your own WebSocket + Node.js backend vs. Firebase.
-#####Own chat: See websocket
-#####Chat via Firebase: See FirebaseThreewayOriginal
+#####Own chat: [See websocket](https://github.com/tjaydk/meanperiod5/tree/master/FirebaseThreeWayOriginal)
+#####Chat via Firebase: [See FirebaseThreewayOriginal](https://github.com/tjaydk/meanperiod5/tree/master/WebSocket)
 As you can see we have the whole backend via Express setup with our own chat system - and via socket.io we create the socket connection for communication. We can then store the data in a MongoDB for persistence. 
 The threewaydatabinding chat is only the angular frontend and all backend and persistence is done via Firebase.
